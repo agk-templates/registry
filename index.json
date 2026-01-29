@@ -1,0 +1,5 @@
+{
+  "templates": {
+    "test-agent": "github.com/agk-templates/test-agent"
+  }
+}
