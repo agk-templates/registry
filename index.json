@@ -1,6 +1,7 @@
 {
   "templates": {
     "test-agent": "github.com/agk-templates/test-agent",
-    "translate-workflow": "github.com/agk-templates/translate-workflow"
+    "translate-workflow": "github.com/agk-templates/translate-workflow",
+    "flight-search-assistant": "github.com/agk-templates/flight-search-assistant"
   }
 }
